@@ -1,12 +1,17 @@
 ---
 title: Handcrafted Oregon Gin
-subtitle: Ascend with us
+subtitle: Rise up & enlighten your pallet
 image: /img/bottles-first.jpg
 blurb:
-  heading: This is personal
+  heading: From Oregon with love
   text: >-
-    We don't do this because it is a job.  This is our baby. We come home from
-    work to work on this. Hardwork and passion never tasted so good.
+    This is not a job, nor is it just for fun. This is our baby. We come home
+    FROM work just to GO to work on this. Dreams do come true.
+
+
+    Recipe: 3 parts aspiration, 2  parts Due diligence, slowly stir in 
+    passionate attention to detail. Garnish with the fruits of labor, serve
+    immediately. Enjoy.
 intro:
   heading: What we offer
   text: >-
