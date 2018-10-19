@@ -1,13 +1,12 @@
 ---
-title: Family Values
-subtitle: Helping our friends and neighbors since 1992
-image: /img/5fd07e86-f4de-4e35-beb6-1fd5d10cc422.jpg
+title: Handcrafted Oregon Gin
+subtitle: Ascend with us
+image: /img/bottles-first.jpg
 blurb:
   heading: This is personal
   text: >-
-    Clean house. Those two words invoke different feelings in all of us. Joy,
-    happiness, satisfaction and pride are commonly associated with a clean home.
-    "Time to clean up!" The first game we learn as children.
+    We don't do this because it is a job.  This is our baby. We come home from
+    work to work on this. Hardwork and passion never tasted so good.
 intro:
   heading: What we offer
   text: >-
