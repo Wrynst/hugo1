@@ -57,17 +57,18 @@ main:
     image: /img/products-grid2.jpg
   image3:
     alt: gin berries
-    image: /img/products-grid1.jpg
+    image: /img/7d1f4e58-0fc6-4c7b-99cc-c4e3898fa0e6.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
+  - author: Elisabeth (da mole) Kaurismäki
     quote: >-
-      The first time I tried Stillweather Spirits’s gin, I couldn’t even believe
+      The first time I tried Stillweather Spirits’ gin, I couldn’t even believe
       that was the same thing I’ve been drinking every morning.
   - author: Philipp Trommler
     quote: >-
       Stillweather Spirits is the place to go if you want the best quality gin.
-      I love their stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
+      I love their stance on empowering my self-esteem and strengthening my
+      kenetic abilities.
+full_image: /img/90c08d5b-c871-470c-a18e-e2b52e18a257.jpg
 pricing:
   heading: Monthly subscriptions
   description: >-
