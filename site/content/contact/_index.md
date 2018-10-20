@@ -1,13 +1,12 @@
 ---
-title: "Contact"
-logo: "/img/logo.svg"
+title: Contact
+logo: /img/logo.svg
 contact_entries:
   - heading: Location
-    text: "990 N Ginner St, Oregon City, Oregon 97077"
+    text: '990 N Ginner St, Oregon City, Oregon 97077'
   - heading: Working hours
-    text: "Monday – Saturday: 4PM – 7PM We’re closed on Sundays"
+    text: 'Monday – Saturday: 4PM – 7PM We’re closed on Sundays'
 ---
-
 We’d love to get in touch with you and hear your ideas and
 questions. We strive to grow and improve constantly and your feedback
 is valuable for us.
