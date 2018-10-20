@@ -50,11 +50,11 @@ main:
     We personally visit each farm to make sure the conditions are optimal for
     the plants, farmers and the local environment.
   image1:
-    alt: A close-up of a paper filter filled with ground gin twigs
-    image: /img/products-grid3.jpg
+    alt: Bee with strong knees
+    image: /img/bees-knees.gif
   image2:
-    alt: A green shot of a gin on a wooden table
-    image: /img/products-grid2.jpg
+    alt: Variety of mojitos
+    image: /img/mojito.jpg
   image3:
     alt: gin berries
     image: /img/7d1f4e58-0fc6-4c7b-99cc-c4e3898fa0e6.jpg
