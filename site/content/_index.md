@@ -15,6 +15,8 @@ intro:
     about their gin's origin and support the distillers that brew it. We take
     gin production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone.
+
+    [The coding train](https://youtu.be/PBsUD40nPkI)
 products:
   - image: img/illustrations-coffee.svg
     text: >-
@@ -23,7 +25,7 @@ products:
       variety of gin berries grown with great care for the environment and local
       communities. Check our post or contact us directly for current
       availability.
-  - image: /img/illustrations-gin-gear.svg
+  - image: /img/emily-new-mom.jpg
     text: >-
       We offer a small, but carefully curated selection of brewing gear and
       tools for every taste and experience level. No matter if you roast your
