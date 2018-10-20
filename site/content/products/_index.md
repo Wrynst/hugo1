@@ -79,10 +79,12 @@ pricing:
       items:
         - 3 litres of gin per month
         - Green or roasted berries"
-        - One or two varieties of berries"
+        - One or two varieties of berries
       plan: Small
       price: '50'
-    - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
+    - description: >-
+        Great for avid drinkers, "Is that a big gin on your face?" couples and
+        bigger crowds with or without pink elephants.
       items:
         - 6 litres of gin per month
         - Green or roasted berries
@@ -92,8 +94,9 @@ pricing:
     - description: Want a few tiny batches from different varieties? Try our custom plan
       items:
         - Whatever you need
-        - Green or roasted berries
-        - Unlimited varieties
+        - >-
+          whenever you need it. You get my personal phone number. Bottomless cup
+          of gin is just the beginning..
       plan: Custom
       price: '?'
 ---
