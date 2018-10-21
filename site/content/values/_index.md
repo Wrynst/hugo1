@@ -27,9 +27,9 @@ values:
     imageUrl: /img/sws_sunset.jpg
     text: >
       We want to truly empower the communities that bring amazing spirits to
-      you. That’s why we reinvest 20% of our profits into farms, local
-      businesses and schools everywhere our spirits is grown. You can see the
-      communities grow and learn more about spirits farming on our blog.
+      you. That’s why we reinvest 20% of our profits into photography equipment so we 
+			can be sure to deliver only the finest colors, clouds, and sunsets. You can see the
+      communities grow and learn more about spirits on our blog.
   - heading: Don't blink
     imageUrl: /img/ork-nate.jpg
     text: You might miss it.
