@@ -1,8 +1,8 @@
 :root {
 	/* Colors */
-	--primary: rgba(246,49,46, .8);
-	--secondary: rgba(192,126,73,.4);
-	--highlight: rgba(255,200,73, .8);
+	--primary: rgba(246,49,46, .6);
+	--secondary: rgba(192,126,73,1);
+	--highlight: rgba(255,200,73, 1);
 	--white: rgba(253, 253, 253, 1);
 	--off-white: rgba(249, 249, 249, 1);
 	--grey-1: rgba(235, 235, 235, 1);
