@@ -1,5 +1,11 @@
-<html>
+---
+title: 'Nates list'
+date: '2018-10-18T12:59:31-07:00'
+description: Does this work?
+image: /img/simpsons-no-smoking.gif
+---
 
+<html>
 <head>
 	<meta content="text/html; charset=UTF-8" http-equiv="content-type">
 	<style type="text/css">
