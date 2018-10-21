@@ -3,7 +3,7 @@
   padding: 12px 16px 10px;
   font-size: var(--spacing-medium);
   line-height: 1.25;
-  background-image: radial-gradient(#fa7a34, #ffc849, #f6312e);
+  background-image: radial-gradient(#f6312e,#fa7a34, #ffc849);
   border-radius: var(--border-radius);
   text-decoration: none;
   font-weight: var(--bold-font-weight);
