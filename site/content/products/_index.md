@@ -9,17 +9,13 @@ description: >-
   knowledge to anyone.
 intro:
   blurbs:
-    - image: /img/burning-nate.jpg
+    - image: /img/sws_sunset-bottle.jpg
       text: >
         We sell green and roasted gin berries that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
         variety of gin berries grown with great care for the environment and
         local communities. Check our post or contact us directly for current
         availability.
-    - image: /img/thecodingtrain.jpg
-      text: |-
-        The coding train. Learn yourself some skills. 
-        https://youtu.be/PBsUD40nPkI
     - image: /img/gticket.png
       text: >
         You just found your ticket: Love a great flagon of gin, but never knew
@@ -28,13 +24,14 @@ intro:
         consultation with our bartenders to learn anything you want to know
         about gin distilation and drinking. Email us or call the store for
         details.
-    - image: /img/illustrations-meeting-space.svg
+    - image: /img/beverage.svg
       text: >
         We believe that good gin has the power to bring people together. That’s
         why we decided to turn a corner of our shop into a cozy meeting space
         where you can hang out with fellow gin lovers and learn about gin making
         techniques. All of the artwork on display there is for sale. The full
         price you pay goes to the artist.
+    - {}
   heading: What we offer
   description: >
     Stillweather Spirits is the ultimate spot for gin lovers who want to learn
