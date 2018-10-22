@@ -24,7 +24,7 @@ intro:
         consultation with our bartenders to learn anything you want to know
         about gin distilation and drinking. Email us or call the store for
         details.
-    - image: /img/beverage.svg
+    - image: /img/sws_first-doorfront.jpg
       text: >
         We believe that good gin has the power to bring people together. That’s
         why we decided to turn a corner of our shop into a cozy meeting space
@@ -47,13 +47,13 @@ main:
     the plants, farmers and the local environment.
   image1:
     alt: Bee with strong knees
-    image: /img/bees-knees.gif
+    image: /img/stillweather-spirits-flat-1-.png
   image2:
     alt: Variety of mojitos
     image: /img/mojito.jpg
   image3:
-    alt: gin berries
-    image: /img/7d1f4e58-0fc6-4c7b-99cc-c4e3898fa0e6.jpg
+    alt: Stillweather
+    image: /img/sws_sunset.jpg
 testimonials:
   - author: Elisabeth (da mole) Kaurismäki
     quote: >-
@@ -64,7 +64,7 @@ testimonials:
       Stillweather Spirits is the place to go if you want the best quality gin.
       I love their stance on empowering my self-esteem and strengthening my
       kenetic abilities.
-full_image: /img/90c08d5b-c871-470c-a18e-e2b52e18a257.jpg
+full_image: /img/toychestQ.jpg
 pricing:
   heading: Monthly subscriptions
   description: >-
