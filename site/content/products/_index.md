@@ -1,6 +1,6 @@
 ---
 title: Our gin
-image: /img/10871986_1_.gif
+image: /img/sws_first-group-photo.jpg
 heading: What we offer
 description: >-
   Stillweather Spirits is the ultimate spot for gin lovers who want to learn
@@ -24,7 +24,7 @@ intro:
         consultation with our bartenders to learn anything you want to know
         about gin distilation and drinking. Email us or call the store for
         details.
-    - image: /img/sws_first-doorfront.jpg
+    - image: /img/yin-yang.svg
       text: >
         We believe that good gin has the power to bring people together. That’s
         why we decided to turn a corner of our shop into a cozy meeting space
@@ -46,7 +46,7 @@ main:
     We personally visit each farm to make sure the conditions are optimal for
     the plants, farmers and the local environment.
   image1:
-    alt: Bee with strong knees
+    alt: Logo alt
     image: /img/stillweather-spirits-flat-1-.png
   image2:
     alt: Variety of mojitos
