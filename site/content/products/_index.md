@@ -1,6 +1,6 @@
 ---
 title: Our gin
-image: /img/sws_logo_inspiration-purple-sky.jpg
+image: /img/10871986_1_.gif
 heading: What we offer
 description: >-
   Stillweather Spirits is the ultimate spot for gin lovers who want to learn
