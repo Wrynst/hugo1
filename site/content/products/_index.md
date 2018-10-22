@@ -62,7 +62,7 @@ testimonials:
   - author: Philipp Trommler
     quote: >-
       Stillweather Spirits is the place to go if you want the best quality gin.
-      I love their stance on empowering my self-esteem and strengthening my
+      I love their stance on empowering my self-esteem through strengthening my
       kenetic abilities.
 full_image: /img/toychestQ.jpg
 pricing:
