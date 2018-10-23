@@ -1,14 +1,12 @@
 ---
 title: Nates list
 date: '2018-10-18T12:59:31-07:00'
-description: Does this work?
-image: /img/simpsons-no-smoking.gif
+description: |-
+
+  Teach yourself enough to be a web developer in a year or less
+image: /img/image4.jpg
 ---
-<body style="background-color:#000000;padding:0pt 45.4pt 0pt 45.4pt;max-width:521.3pt">
-	<div>
-		<p style="padding-top:4pt;color:#000000;padding-left:0;font-size:10pt;padding-bottom:2pt;line-height:1.2;margin-right:0;margin-left:18pt;text-indent:-18pt;font-family:&quot;Trebuchet MS&quot;;margin-top:0;orphans:2;margin-bottom:0;widows:2;height:10pt;text-align:left;padding-right:0"><span style="color:#000000;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:10pt;font-family:&quot;Trebuchet MS&quot;;font-style:normal"></span></p>
-	</div>
-	<p class="subtitle" id="h.sw131ozi4qg2" style="padding-top:0pt;margin:0;color:#666666;padding-left:0;font-size:15pt;padding-bottom:16pt;line-height:1.5;page-break-after:avoid;font-family:&quot;Arial&quot;;orphans:2;widows:2;text-align:center;padding-right:0"><span style="color:#b45f06;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:15pt;font-family:&quot;Ubuntu Mono&quot;;font-style:normal">Teach yourself enough to be a web developer in a year or less</span><span style="overflow: hidden; display: inline-block; margin: 0.00px -0.00px; border: 5.33px solid #783f04; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 834.00px; height: 63.00px;"><img alt="" src="img/image4.jpg" style="width: 1038.48px; height: 695.22px; margin-left: -204.48px; margin-top: -306.38px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);" title=""></span></p>
+<body style="background-color: blue;">
 	<h5
 	 id="h.7kuc7hu9wr14" style="padding-top:12pt;margin:0;color:#666666;padding-left:0;font-size:11pt;padding-bottom:4pt;line-height:1.5;page-break-after:avoid;font-family:&quot;Trebuchet MS&quot;;orphans:2;widows:2;text-align:left;padding-right:0"><span style="color:#f6b26b;font-weight:400;text-decoration:none;vertical-align:baseline;font-size:14pt;font-family:&quot;Ubuntu Mono&quot;;font-style:normal">What you&rsquo;ll need</span></h5>
 		<ul class="lst-kix_q8poj3vv7w2e-0 start" style="padding:0;margin:0">
